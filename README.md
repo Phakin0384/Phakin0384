@@ -67,25 +67,6 @@ Kasetsart University, Sriracha Campus
 - [ ] Master modern development frameworks and tools
 - [ ] Create innovative solutions that solve real-world problems
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-### Overall Statistics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phakin0384&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phakin0384&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phakin0384&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</div>
-
----
-
 ## 📞 Contact
 
 - 📧 **Email:** phakinsaekhow04@gmail.com
