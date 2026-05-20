@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate software developer focused on creating elegant and efficient solutions for **web and mobile applications**. With a strong foundation in computer engineering, I love bringing ideas to life through code and design.
+I'm a passionate software developer focused on creating elegant and efficient solutions for **web and mobile applications**. With a strong foundation in computer engineering, I love bringing ideas to [...]
 
 Currently exploring the intersection of web development, mobile apps, and system design to build scalable solutions.
 
@@ -74,6 +74,14 @@ Kasetsart University, Sriracha Campus
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phakin0384&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phakin0384&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📞 Contact
+
+- 📧 **Email:** phakinsaekhow04@gmail.com
+- 📘 **Facebook:** https://www.facebook.com/Phakin8779
+- 📸 **Instagram:** https://www.instagram.com/pnsw_04.10/
 
 ---
 
