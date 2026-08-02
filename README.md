@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Phakin!
 
 **Computer Engineer & Full-Stack Developer**  
-*Bachelor's Degree in Computer Engineering and Informatic*  
+*Bachelor's Degree in Computer Engineering and Informatics*  
 *Kasetsart University, Sriracha Campus*
 
 ---
